@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "bin": {
+    "random-str-msg-luis": "bin/global.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisRoft/random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Luis Velasco <LuisVelasco6541@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisRoft/random-str-msg/issues"
+  },
+  "homepage": "https://github.com/LuisRoft/random-str-msg#readme",
+  "preferGlobal": true
+}
