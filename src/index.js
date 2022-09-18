@@ -20,7 +20,8 @@ const messages = [
     'Maybe yes',
     'Maybe not',
     'Are we real? Obviously I am not',
-    'Yes, this is the final message'
+    'Yes, this is the final message',
+    'Just Chill'
 ];
 
 const randomMessageGenerator = () => {
