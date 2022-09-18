@@ -1,24 +1,23 @@
 {
-  "name": "random-str-msg",
+  "name": "random-str-msg-pepl",
   "version": "1.0.0",
   "description": "Random String Messages",
   "main": "index.js",
   "bin": {
-    "random-str-msg-luis": "bin/global.js"
+    "random-str-msg-pepl": "bin/global.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LuisRoft/random-str-msg.git"
+    "url": "git+https://github.com/LuisRoft/random-str-msg-pepL.git"
   },
   "keywords": [],
-  "author": "Luis Velasco <LuisVelasco6541@gmail.com>",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LuisRoft/random-str-msg/issues"
+    "url": "https://github.com/LuisRoft/random-str-msg-pepL/issues"
   },
-  "homepage": "https://github.com/LuisRoft/random-str-msg#readme",
-  "preferGlobal": true
+  "homepage": "https://github.com/LuisRoft/random-str-msg-pepL#readme"
 }
